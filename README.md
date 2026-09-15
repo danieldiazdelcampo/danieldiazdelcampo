@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**danieldiazdelcampo/danieldiazdelcampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://avatars.githubusercontent.com/u/187618823?v=4" width="150">
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h1> Hello! 👋</h1>
+
+<hr>
+
+<h2>🧑‍💻 About Me 🧑‍💻</h2>
+
+<p>
+My name is <b>Daniel</b>, just a Spanish guy with a passion for programming.<br>
+I'm currently studying web applications and some programming languagues.<br>
+I like working on personal projects, participating in events and learning new technologies.
+</p>
+
+<br>
+
+<h2>🛠️ Languages and tools that I have experience using 🛠️</h2>
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,py,js,eclipse,idea" />
+</p>
+
+<br>
+
+</div>
