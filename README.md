@@ -12,7 +12,7 @@
 <h2>🧑‍💻 About Me 🧑‍💻</h2>
 
 <p>
-My name is <b>Daniel</b>, just a Spanish guy with a passion for programming.<br>
+My name is Cilio <b>(Daniel)</b>, just a Spanish guy with a passion for programming.<br>
 I'm currently studying web applications and some programming languagues.<br>
 I like working on personal projects, participating in events and learning new technologies.
 </p>
