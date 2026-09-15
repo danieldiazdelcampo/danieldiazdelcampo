@@ -27,4 +27,9 @@ I like working on personal projects, participating in events and learning new te
 
 <br>
 
+<h2>🛠️ Languages and tools (im studying/practing) 🛠️</h2>
+<p>
+<img src="https://skillicons.dev/icons?i=js,linux,lua,py,mysql,ai" />
+</p>
+
 </div>
