@@ -22,7 +22,7 @@ I like working on personal projects, participating in events and learning new te
 <h2>🛠️ Languages and tools that I have experience using 🛠️</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,py,js,eclipse,idea" />
+<img src="https://skillicons.dev/icons?i=git,py,js,eclipse,idea,lua,bash,linux,htlm,css,java" />
 </p>
 
 <br>
